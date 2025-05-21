@@ -39,7 +39,10 @@ Feedback is provided in terms of heuristic function
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
 <h3>PROGRAM</h3>
-`````#include <stdio.h>
+
+`````
+
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
@@ -130,7 +133,8 @@ int main() {
     
     return 0;
 }
-````
+
+`````
 <hr>
 <h2>Sample Input and Output</h2>
 <h2>Sample String:</h2> Artificial Intelligence
